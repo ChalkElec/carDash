@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Hardware/qmldir</file>
+        <file>qml/Hardware/Hardware.qml</file>
+        <file>qml/Components/Speedometer.qml</file>
+        <file>qml/Components/Tachometer.qml</file>
+        <file>qml/Components/CarModel.qml</file>
+        <file>qml/Components/RoundWidget.qml</file>
+        <file>resources/dashboard_arrow_down.png</file>
+        <file>resources/dashboard_bg.png</file>
+        <file>resources/dashboard_circles.png</file>
+        <file>resources/dashboard_fuel_empty.png</file>
+        <file>resources/dashboard_fuel_full.png</file>
+        <file>resources/car_dashboard_car_black.svg</file>
+        <file>resources/left_front_door_open.svg</file>
+        <file>resources/right_front_door_open.svg</file>
+        <file>resources/left_rear_door_open.svg</file>
+        <file>resources/right_rear_door_open.svg</file>
+        <file>resources/engine_big.svg</file>
+        <file>resources/battery_big.svg</file>
+        <file>resources/handbrake_big.svg</file>
+        <file>resources/seatbelt_big.svg</file>
+        <file>resources/front_lights.png</file>
+        <file>resources/front_wave_lights.png</file>
+        <file>resources/front_long_range_lights.svg</file>
+        <file>resources/rear_wave_red_lights.png</file>
+        <file>resources/left_turn_light_big.svg</file>
+        <file>resources/right_turn_light_big.svg</file>
+        <file>resources/side_lights.svg</file>
+        <file>resources/rpm_scale.png</file>
+        <file>resources/speed_scale.png</file>
+        <file>resources/fuel_empty_green.png</file>
+        <file>resources/fuel_empty_red.png</file>
+        <file>resources/fuel_full_green.png</file>
+        <file>resources/fuel_full_red.png</file>
+        <file>resources/logo.gif</file>
+    </qresource>
+</RCC>

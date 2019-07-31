@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBD2>
+  <init>
+    <command send="atl0"></command>
+    <command send="ate0"></command>
+    <command send="atal"></command>
+    <command send="atsp0"></command>
+  </init>
+
+  <rotation>
+    <command send="010C" replyLength="2" skipCount="0" targetId="37" conversion="V/4"></command>
+    <command send="010D" replyLength="1" skipCount="0" targetId="81" units="km/h"></command>
+    <command send="012F" replyLength="2" skipCount="100" targetId="170" conversion="100 * V / 255"></command>
+    <command send="0105" replyLength="2" skipCount="10" targetId="14" conversion="(V - 40) / 130.0 * 100"></command>
+    <command send="0146" replyLength="2" skipCount="10" targetId="173" conversion="V - 40"></command>
+    <command send="01A4" replyLength="1" skipCount="10" targetId="139"></command>
+  </rotation>
+</OBD2>
+

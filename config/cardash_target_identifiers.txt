@@ -1,0 +1,167 @@
+targetId: Display Name
+0: AFR 1
+1: AFR 2
+2: AFR Target 1
+3: AFR Target 2
+4: Accel Enrich
+9: Air Density Correction
+10: Barometric Correction
+11: Barometric Pressure
+12: Battery Voltage
+13: Cold Advance
+14: Coolant Temperature
+15: EAE Correction 1
+16: EAE Correction 2
+17: EGO Correction 1
+18: EGO Correction 2
+20: Flex Fuel Correction
+26: Ignition Dwell
+27: Intake Air Temperature
+28: Knock Advance Retard
+29: Knock Percentage
+30: MAF g/s
+31: Manifold Absolute Pressure
+32: Manifold Absolute Pressure dot
+33: Engine Runtime (sec)
+35: Pulse Width 1
+36: Pulse Width 2
+37: RPM
+38: Spark Advance
+40: TPS Fuel Cut
+41: TPS dot
+42: Throttle Position
+43: Total Fuel Correction
+44: VE 1
+45: VE 2
+46: Warmup Correction
+50: Squirtbit: Firing 1
+51: Squirtbit: Firing 2
+52: Squirtbit: Sched 1
+53: Squirtbit: Injection 1
+54: Squirtbit: Sched 2
+55: Squirtbit: Injection 2
+56: Enginebit: Ready
+57: Enginebit: Crank
+58: Enginebit: Startup Enrich
+59: Enginebit: Warmup
+60: Enginebit: TPS accel active
+61: Enginebit: TPS deaccel active
+62: Enginebit: MAP accel active
+63: Enginebit: MAP deaccel active
+65: Check Engine Light
+66: Number of CEL codes
+70: Spareportbit 0
+71: Spareportbit 1
+72: Spareportbit 2
+73: Spareportbit 3
+74: Spareportbit 4
+75: Spareportbit 5
+76: Spareportbit 6
+77: Spareportbit 7
+81: VSS1
+99: VSS2
+100: Engine Load
+101: Short Term Fuel Trim, Bank 1
+102: Long Term Fuel Trim, Bank 1
+103: Short Term Fuel Trim, Bank 2
+104: Long Term Fuel Trim, Bank 2
+105: Fuel Pressure
+106: EGT1
+107: EGT2
+108: EGT3
+109: EGT4
+110: EGT5
+111: EGT6
+112: EGT7
+113: EGT8
+114: EGT9
+115: EGT10
+116: EGT11
+117: EGT12
+136: Vehicle Speed (Transmission)
+137: Throttle Position (Transmission)
+138: Oil Temperature (Transmission)
+139: Gear (Transmission)
+140: Selected Gear (Transmission)
+141: Shifter Position (Transmission)
+142: Tuning Map (Transmission)
+143: Lockup Active (Transmission)
+144: Upshift indicator (Transmission)
+145: Downshift indicator (Transmission)
+146: Low Range indicator (Transmission)
+147: Overdrive indicator (Transmission)
+148: 2nd Gear Start indicator (Transmission)
+149: 4WD Active
+150: 4WD Low Range Active
+151: Engine Oil Pressure
+152: Engine Oil Temperature
+153: Engine Cooling Fan
+154: Starter Motor
+155: Parking Lights
+156: Low Beam
+157: High Beam
+158: Fog Lights
+159: Reverse Lights
+160: Turn Signal Left
+161: Turn Signal Right
+162: Door Ajar
+163: Trunk Ajar
+164: Parking Brake
+165: Horn
+166: Hazard Switch
+167: Ignition
+168: Seat Belt Warning
+169: Cruise Control Active
+170: Fuel Level
+171: Cruise Control Set Value
+172: Heater Motor Level
+173: Ambient Temperature
+174: Inside Temperature
+175: AC Set Temperature
+176: Washer Fluid Level
+177: Coolant Level
+178: Brake Fluid Level
+179: Traction Control Percentage
+180: Engine Oil Level
+181: Windshield Washer Active
+182: Fuel Pump 1
+183: Fuel Pump 2
+184: Fuel Pump 3
+185: Fuel Pump 4
+186: Instrument Panel Lights
+187: Interior Lights
+188: Steering Wheel 1
+189: Steering Wheel 2
+190: Steering Wheel 3
+191: Steering Wheel 4
+192: Steering Wheel 5
+193: Steering Wheel 6
+194: Steering Wheel 7
+195: Steering Wheel 8
+196: Steering Wheel 9
+197: Steering Wheel 10
+198: Steering Wheel 11
+199: Steering Wheel 12
+200: Gear (mapped)
+201: Fuel Level
+202: Fuel Pressure
+229: Steering Wheel Angle (degrees)
+230: Brake pedal position
+231: Clutch pedal position
+232: Tyre LF temperature
+233: Tyre RF temperature
+234: Tyre LR temperature
+235: Tyre RR temperature
+236: Tyre LF wear
+237: Tyre RF wear
+238: Tyre LR wear
+239: Tyre RR wear
+240: Tyre LF pressure
+241: Tyre RF pressure
+242: Tyre LR pressure
+243: Tyre RR pressure
+244: Brake LF temperature
+245: Brake RF temperature
+246: Brake LR temperature
+247: Brake RR temperature
+300: Ambient Temperature
